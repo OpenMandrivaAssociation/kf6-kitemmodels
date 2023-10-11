@@ -1,6 +1,6 @@
 %define libname %mklibname KF6ItemModels
 %define devname %mklibname KF6ItemModels -d
-%define git 20231010
+%define git 20231011
 
 Name: kf6-kitemmodels
 Version: 5.240.0
