@@ -7,7 +7,7 @@
 
 Name: kf6-kitemmodels
 Version: 6.12.0
-Release: %{?git:0.%{git}.}1
+Release: %{?git:0.%{git}.}2
 %if 0%{?git:1}
 Source0: https://invent.kde.org/frameworks/kitemmodels/-/archive/master/kitemmodels-master.tar.bz2#/kitemmodels-%{git}.tar.bz2
 %else
